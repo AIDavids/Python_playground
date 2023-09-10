@@ -20,7 +20,7 @@ elif user == "rock":
         print("You win")
 elif user == "paper":
     if computer == "rock":
-        print("You lose")
+        print("You lo se")
     if computer == "scissors":
         print("You win")
 
